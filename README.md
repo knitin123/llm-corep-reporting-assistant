@@ -8,7 +8,7 @@ The assistant retrieves relevant COREP regulatory instructions, generates struct
 Key Features
 
 - Retrieval grounded in regulatory text
-- Locally hosted LLM (Phi-3 via Ollama,no sufficient funds for open api)
+- Locally hosted LLM (Phi-3 via Ollama )
 - Structured JSON reporting output
 - COREP template mapping
 - Validation engine
